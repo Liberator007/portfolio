@@ -1,0 +1,126 @@
+#time {
+	text-align: right;
+	color: white;
+	font-size: 25px;
+	margin-top: -70px;
+	padding-right: 20px;
+}
+
+/*---AllPages-----------------------------------------*/
+
+.footer {
+	margin-top: 50px;
+	margin-bottom: 20px;
+	vertical-align: middle;
+	text-align: center;	
+	color: gray;	
+}
+
+.footer_login {
+	margin-top: 240px;
+	margin-bottom: 20px;
+	vertical-align: middle;
+	text-align: center;	
+	color: gray;
+}
+
+.footer_registration {
+	margin-top: 150px;
+	margin-bottom: 20px;
+	vertical-align: middle;
+	text-align: center;	
+	color: gray;
+}
+
+/*---ShowBlog-----------------------------------------*/
+
+.topic{
+	text-align: center;
+	text-indent: 40px;
+	font-size: 40px;
+}
+
+.title{
+	text-indent: 40px;
+}
+
+.headline{
+	text-indent: 40px;
+	font-size: 30px;
+}
+
+.text{
+	text-indent: 40px;
+	font-size: 20px;
+}
+
+.date{
+	text-align: right;
+	text-indent: 40px;
+	color: #696969;
+}
+
+.badge{
+	font-size: 40px;
+}
+
+/*---ShowHomeBlogList-----------------------------------------*/
+
+.tableBlog{
+	border-radius: 5px;
+}
+
+/*---AddComment-----------------------------------------*/
+
+.selectInput {
+	width: 100px;
+}
+
+/*---ShowComment-----------------------------------------*/
+
+#content_feedback {
+	padding-left: 20px;
+}
+
+.badge {
+	margin-left: 40px;
+}
+
+.name {
+	font-size: 25px;
+	font-weight: bolder;
+	text-indent: 40px;
+	white-space: nowrap;
+}
+
+.editComment {
+	margin-left: -40px;
+	font-size: 15px;
+	color: gray;
+	display: inline-block;
+}
+
+.feedback {
+	font-size: 17px;
+	text-indent: 40px;
+}
+
+.dateComment {
+	text-indent: 40px;
+	font-size: 15px;
+	color: gray;
+}
+
+.bac {
+	background-color: #E8E8E8;
+}
+
+.pad {
+	padding: 5px;
+}
+
+.rad {
+	border-radius: 5px;
+}
+/*--------------------------------------------*/
+
